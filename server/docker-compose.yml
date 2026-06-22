@@ -1,0 +1,12 @@
+services:
+  escomsurfers-server:
+    build: .
+    container_name: escomsurfers-server
+    ports:
+      - "3000:8080"
+    volumes:
+      - ./serviceAccountKey.json:/app/serviceAccountKey.json:ro
+    environment:
+      - PORT=8080
+      - CORS_ORIGIN=*
+    restart: unless-stopped

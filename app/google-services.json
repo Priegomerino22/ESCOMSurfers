@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "227069661459",
+    "project_id": "escomsurfers",
+    "storage_bucket": "escomsurfers.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227069661459:android:a3ee77f5262158cc948ae6",
+        "android_client_info": {
+          "package_name": "com.escom.escomsurfers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227069661459-g0uln62ih4b8s29aevgldb3sbs9tjtbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.escom.escomsurfers",
+            "certificate_hash": "4ea46bbd9435d7e25a3f6c74ebc2f131d38319c3"
+          }
+        },
+        {
+          "client_id": "227069661459-ddi5qu8g4a3sm83kqocuglibatsv0ass.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLn6BSNqIV2NxGvXYPBNSGfRMqLJv017I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227069661459-ddi5qu8g4a3sm83kqocuglibatsv0ass.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
